@@ -1,0 +1,5 @@
+﻿<Properties>
+  <WatchEntry0 value="x" />
+  <WatchEntry1 value="y" />
+  <WatchEntry2 value="TextUtil.GetTextLocation(&quot;OK&quot;,hWnd1,-1,-1,-1,-1)" />
+</Properties>
